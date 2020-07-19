@@ -1,1 +1,1 @@
-[![](./background.jpg)](https://jiang2ji.com)
+![](https://raw.githubusercontent.com/tshanli/tshanli/master/background.jpg)

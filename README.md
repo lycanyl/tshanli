@@ -1,1 +1,2 @@
-![](https://raw.githubusercontent.com/tshanli/tshanli/master/background.jpg)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tshanli)](https://github.com/anuraghazra/github-readme-stats)
+
